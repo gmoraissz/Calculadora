@@ -1,2 +1,2 @@
 # Calculadora
-Primeira calculadora feita em python, usando os principios de lógica da programação.
+Primeira calculadora feita com python, usando os principios de lógica da programação.
